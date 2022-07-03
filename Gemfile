@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.11'
+gem 'rails', '4.2.11.1'
 gem 'sass-rails', '~> 4.0.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
@@ -13,7 +13,7 @@ gem 'voteable-ism', '0.0.3'
 
 gem 'jquery-rails'
 gem 'turbolinks'
-gem 'jbuilder', '~> 1.2'
+gem 'jbuilder'#, '~> 2.11.5'
 
 gem 'sqlite3', '~> 1.3.6'
 #gem 'bcrypt-ruby', '~> 3.1.2'
