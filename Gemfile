@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.11.1'
-gem 'sass-rails', '~> 4.0.0'
+gem 'rails', '5.2.4.6'
+gem 'sass-rails', '~> 5.0.0'
 gem 'uglifier', '>= 1.3.0'
-gem 'coffee-rails', '~> 4.0.0'
+#gem 'coffee-rails', '~> 4.0.0'
 gem 'bootstrap-sass', '~> 2.3.2.0'
 #gem 'voteable_sri', '= 0.0.0', path: '/home/srimanta/voteable-gem'
 gem 'voteable-ism', '0.0.3'
@@ -13,7 +13,7 @@ gem 'voteable-ism', '0.0.3'
 
 gem 'jquery-rails'
 gem 'turbolinks'
-gem 'jbuilder'#, '~> 2.11.5'
+#gem 'jbuilder'#, '~> 2.11.5'
 
 gem 'sqlite3', '~> 1.3.6'
 #gem 'bcrypt-ruby', '~> 3.1.2'
@@ -24,7 +24,7 @@ group :doc do
 end
 
 group :development do
-  gem 'quiet_assets'
+  #gem 'quiet_assets'
   gem 'pry'
   #gem 'sqlite3'
 end
