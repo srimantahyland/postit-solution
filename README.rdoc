@@ -1,6 +1,6 @@
 == Getting Started
 
-1. Make sure you have ruby version 3.2.3 and rails version 5.2. Type "rails -v" to make sure.
+1. Make sure you have ruby version 3.2.3 and rails version 6.1. Type "rails -v" to make sure.
 2. From this project directory, do "bundle install"
 3. To start the server "rails server".
 4. Navigate your browser to localhost:3000.
